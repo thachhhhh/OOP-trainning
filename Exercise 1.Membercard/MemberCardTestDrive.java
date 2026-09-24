@@ -1,7 +1,7 @@
 public class MemberCardTestDrive{
     public static void main(String[] args){
         MemberCard card = new MemberCard();
-        card.Setnem("thach");
+        card.setName("thach");
         card.setStudentId("2511019");
         card.setEmail("tranbaothach2007@gmail.com");
 

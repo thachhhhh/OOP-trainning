@@ -6,7 +6,7 @@ public class MemberCard{
     public String getName(){
         return name;
     }
-    public void Setnem(String name){
+    public void setName(String name){
         this.name = name;
     }
     //---------------------------------------------
